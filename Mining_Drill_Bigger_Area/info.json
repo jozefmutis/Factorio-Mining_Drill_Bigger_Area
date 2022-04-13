@@ -1,0 +1,9 @@
+{
+	"name": "Mining_Drill_Bigger_Area",
+	"version": "1.0.0",
+	"factorio_version": "1.1",
+	"dependencies": ["base >= 0.16.0"],
+	"title": "Mining Drill bigger area",
+	"author": "jackar",
+	"description": "Changes Mining Drills to have customizable drilling area."
+}
